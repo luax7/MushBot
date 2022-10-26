@@ -24,4 +24,4 @@ const ArkClient = new Ark( client ,
     }
 )
 
-client.login("MTAyOTQwOTk1ODUzMTQ0MDY4MQ.GxdJ-V.pK5vq650B428DVSzCU84aErJlmBv2h93go_094")
+client.login("token")
